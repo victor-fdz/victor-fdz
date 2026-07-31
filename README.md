@@ -15,13 +15,12 @@
 
 ---
 
-I'm a bioinformatician with a genetics background. Most of my work sits between genomics and deep learning: building machine learning models, handling large omics datasets on HPC, and performing biostatistical analysis.
+I'm a bioinformatician🖥️ with a genetics background🧬. Most of my work sits between genomics and deep learning: building machine learning models💡, handling large omics datasets on HPC⚙️, and performing biostatistical analysis📊.
 
 
 ## Tools
 
 <p>
-  <strong>Languages</strong><br>
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;&nbsp;
