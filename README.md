@@ -21,15 +21,14 @@ I'm a bioinformatician🖥️ with a genetics background🧬. Most of my work si
 ## Tools
 
 <p>
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;&nbsp;
-  <source media="(prefers-color-scheme: dark)" srcset="./img/apptainer-dark.svg">
-      <img alt="Apptainer / Singularity" height="40" src="./img/apptainer-light.svg">
-  </picture>&nbsp;&nbsp;&nbsp;
-  <img alt="Anaconda" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Nextflow" height="40" src="./img/nextflow-icon.svg">
+  <img alt="Anaconda" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
-  <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Apptainer / Singularity" height="40" src="./img/apptainer-light.svg">
 </p>
