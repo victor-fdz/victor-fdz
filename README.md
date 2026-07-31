@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/acobos-bioinformatics"><img alt="LinkedIn" height="28" src="./img/LinkedIn_icon.svg" /></a>
+  <a href="https://linkedin.com/in/victor-fdz"><img alt="LinkedIn" height="28" src="./img/LinkedIn_icon.svg" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:acobos2424@gmail.com"><img alt="Email" height="28" src="./img/Gmail_icon_(2020).svg" /></a>
+  <a href="mailto:victor.fernandez.oliveras@gmail.com"><img alt="Email" height="28" src="./img/Gmail_icon_(2020).svg" /></a>
 </p>
 
 ---
