@@ -30,5 +30,4 @@ I'm a bioinformatician🖥️ with a genetics background🧬. Most of my work si
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Apptainer / Singularity" height="40" src="./img/apptainer-light.svg">
 </p>
